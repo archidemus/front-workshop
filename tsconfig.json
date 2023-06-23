@@ -15,7 +15,7 @@
     "baseUrl": ".",
     "paths": {},
     "jsx": "react-jsx",
-    "allowJs": false,
+    "allowJs": true,
     "esModuleInterop": false,
     "allowSyntheticDefaultImports": true,
     "strict": true,
